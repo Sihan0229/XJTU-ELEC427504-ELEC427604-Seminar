@@ -1,0 +1,6 @@
+#ifndef RTW_HEADER_Seminar2_Part2_acc_types_h_
+#define RTW_HEADER_Seminar2_Part2_acc_types_h_
+typedef struct P_RMS_Seminar2_Part2_T_ P_RMS_Seminar2_Part2_T ; typedef
+struct P_TrueRMS_Seminar2_Part2_T_ P_TrueRMS_Seminar2_Part2_T ; typedef
+struct P_Seminar2_Part2_T_ P_Seminar2_Part2_T ;
+#endif

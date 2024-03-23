@@ -1,0 +1,4 @@
+LIBRARY ..\..\..\..\Seminar2_Part2_acc.mexw64
+EXPORTS
+    mexFunction
+    mexfilerequiredapiversion
